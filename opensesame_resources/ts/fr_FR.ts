@@ -1702,8 +1702,8 @@ L&apos;éxpérience ne s&apos;est pas terminée normalement pour la raison suiva
     </message>
     <message>
         <location filename="../../translation_tools/translatables.py" line="393"/>
-        <source>&lt;b&gt;Important&lt;/b&gt;: A sequence has &lt;a href=&quot;http://osdoc.cogsci.nl/usage/prepare-run&quot;&gt;a variable preparation time&lt;/a&gt;.</source>
-        <translation>&lt;b&gt;Important&lt;/b&gt; : Le temps de préparation d&apos;une sequence peut &lt;a href=&quot;http://osdoc.cogsci.nl/usage/prepare-run&quot;&gt;varier&lt;/a&gt;.</translation>
+        <source>&lt;b&gt;Important&lt;/b&gt;: A sequence has &lt;a href=&quot;http://osdoc.cogsci.nl/manual/prepare-run&quot;&gt;a variable preparation time&lt;/a&gt;.</source>
+        <translation>&lt;b&gt;Important&lt;/b&gt; : Le temps de préparation d&apos;une sequence peut &lt;a href=&quot;http://osdoc.cogsci.nl/manual/prepare-run&quot;&gt;varier&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
