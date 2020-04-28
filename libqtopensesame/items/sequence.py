@@ -78,7 +78,7 @@ class sequence(qtstructure_item, qtplugin, sequence_runtime):
 		self.set_focus_widget(self.treewidget)
 		self.edit_vbox.addWidget(self.treewidget)
 		self.add_text(
-			_(u'<b>Important</b>: A sequence has <a href="http://osdoc.cogsci.nl/usage/prepare-run">a variable preparation time</a>.'))
+			_(u'<b>Important</b>: A sequence has <a href="http://osdoc.cogsci.nl/manual/prepare-run">a variable preparation time</a>.'))
 
 	def edit_widget(self):
 
