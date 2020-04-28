@@ -1702,8 +1702,8 @@ El experimento no pudo terminar de forma normal por la siguiente razón:
     </message>
     <message>
         <location filename="../../translation_tools/translatables.py" line="393"/>
-        <source>&lt;b&gt;Important&lt;/b&gt;: A sequence has &lt;a href=&quot;http://osdoc.cogsci.nl/usage/prepare-run&quot;&gt;a variable preparation time&lt;/a&gt;.</source>
-        <translation>&lt;b&gt; Importante &lt;/b&gt;: Una secuencia tiene &lt;a href=&quot;http://osdoc.cogsci.nl/usage/prepare-run&quot;&gt;un tiempo de preparación variable&lt;/a&gt;.</translation>
+        <source>&lt;b&gt;Important&lt;/b&gt;: A sequence has &lt;a href=&quot;http://osdoc.cogsci.nl/manual/prepare-run&quot;&gt;a variable preparation time&lt;/a&gt;.</source>
+        <translation>&lt;b&gt; Importante &lt;/b&gt;: Una secuencia tiene &lt;a href=&quot;http://osdoc.cogsci.nl/manual/prepare-run&quot;&gt;un tiempo de preparación variable&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
